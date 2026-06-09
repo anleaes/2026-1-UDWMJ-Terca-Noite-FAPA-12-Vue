@@ -81,14 +81,14 @@ WSGI_APPLICATION = 'prototipo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.oracle',
-        'NAME': 'gestaocondominio_low',
+        'NAME': 'p4qiv9aoi583dy9c_high',
         'USER': 'ADMIN',
-        'PASSWORD': '203040Gg-a12',
+        'PASSWORD': 'Ritter123456',
         'HOST': '',
         'PORT': '',
         'OPTIONS': {
-            'config_dir': '/home/esdev/Documentos/wallet/Wallet_gestaocondominio',
-            'wallet_location': '/home/esdev/Documentos/wallet/Wallet_gestaocondominio',
+            'config_dir': r'C:\Users\ribei\Downloads\Wallet_P4QIV9AOI583DY9C',
+            'wallet_location': r'C:\Users\ribei\Downloads\Wallet_P4QIV9AOI583DY9C',
         },
     }
 }
